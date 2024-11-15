@@ -81,7 +81,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+![Screenshot 2024-11-15 155907](https://github.com/user-attachments/assets/b8926550-71d4-422e-9bc3-68f2414c80c1)
+
 
  
 Analog simulation by SPECTRE.
